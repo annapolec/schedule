@@ -1,5 +1,4 @@
 # schedule
-Step #1 of recrutiment proccess in u2i
 
 Method ```solution``` required by Codility is in ```solution.rb```.
 
